@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE web SYSTEM "web.dtd">
+<web>
+    <servlet>
+        <servlet-class>com.shy.mydogcode.servlet.DefaultServlet</servlet-class>
+        <url-pattern>/</url-pattern>
+    </servlet>
+</web>

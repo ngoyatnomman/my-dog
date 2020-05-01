@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!ELEMENT web (servlet*)>
+<!ELEMENT servlet (servlet-class,url-pattern+) >
+<!ELEMENT servlet-class (#PCDATA)>
+<!ELEMENT url-pattern (#PCDATA)>
